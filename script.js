@@ -271,7 +271,7 @@ document.getElementById('startBtn').addEventListener('click', async () => {
 });
 
 document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-    window.location.href = 'https://t.me/tigraytechc';
+    window.location.href = 'https://t.me/hamster_key_v1';
 });
 
 function generateClientId() {
